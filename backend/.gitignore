@@ -1,0 +1,8 @@
+node_modules
+uploads/*
+!uploads/.gitkeep
+yarn.lock
+yarn-error.log
+package-lock.json
+
+*.sqlite
